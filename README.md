@@ -12,7 +12,17 @@
 
 ## Github
 
+Quick Setup of package.json
+
+```bash
+npm init -y
+```
+
 1. [Difference between git reset --soft, --hard and --mixed](gitReset.md)
+
+## Testing
+
+1. [Introduction to Testing](testingIntro.md)
 
 ## Credits
 
