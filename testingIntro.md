@@ -20,6 +20,8 @@
 
 Test individual functions or classes. Easiest to implement and well suited for functional programming i.e. pure functions
 
+[Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
+
 ### Integration Tests
 
 How different pieces of code work with each other.
