@@ -13,6 +13,8 @@
 
 ## 2. Frameworks And Libaries
 
+- [Server-side vs Client-side Routing](FrameworksAndLibraries/serverSideVsClientSideRouting.md)
+
 ### Typescript
 
 - Initialise project as typescript
