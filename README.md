@@ -72,7 +72,11 @@ npm list -g --depth 0
 
 - [Introduction to Testing](testingIntro.md)
 
-## 6. FAQS
+## 6. UI Resources
+
+- [Material Design](https://material.io/)
+
+## 7. FAQS
 
 ### [why does if(“string”) evaluate “string” as true but if (“string”==true) does not?](https://stackoverflow.com/questions/4923631/why-does-ifstring-evaluate-string-as-true-but-if-string-true-does-not)
 
