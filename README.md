@@ -10,6 +10,8 @@
 - [Optimising Javascript](General/optimisingJavascript.md)
 - [Progressive Web App](General/progressiveWebApp.md)
 - [Statically vs Dynamically Typed Languages](General/staticVsDynamic.md)
+- [Setting up Window Subsystem for Linux](General/settingUpWSL.md)
+- [Some Bash Tips](General/bashTips.md)
 
 ## 2. Frameworks And Libaries
 
@@ -34,49 +36,15 @@ tsc --init
 
 - [Difference between git reset --soft, --hard and --mixed](gitReset.md)
 
-## 4. Bash
-
-### Quick Setup of package.json
-
-  ```bash
-  npm init -y
-  ```
-
-### Upgrading Node with NVM
-
-Check current node version
-
-```bash
-nvm ls
-```
-
-Installing latest node
-
-```bash
-nvm install node
-```
-
-Migrating globally installed packages
-
-```bash
-nvm reinstall-packages v13.12.0
-```
-
-Check list of globally installed packages
-
-```bash
-npm list -g --depth 0
-```
-
-## 5. Testing
+## 4. Testing
 
 - [Introduction to Testing](testingIntro.md)
 
-## 6. UI Resources
+## 5. UI Resources
 
 - [Material Design](https://material.io/)
 
-## 7. FAQS
+## 6. FAQS
 
 ### [why does if(“string”) evaluate “string” as true but if (“string”==true) does not?](https://stackoverflow.com/questions/4923631/why-does-ifstring-evaluate-string-as-true-but-if-string-true-does-not)
 
